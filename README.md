@@ -7,7 +7,7 @@
 
 My Portfolio: https://zamarmasood.vercel.app<br><br>
 
-📧 Email: zamarmasood4@gmail.com.com<br><br>
+📧 Email: zamarmasood4@gmail.com<br><br>
 
 My Certifications are:
 - Full Stack Web Development Certification
