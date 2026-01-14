@@ -5,9 +5,9 @@
 
 🔭 I’m currently working on:<br>Building scalable full-stack web applications using MERN stack and Supabase, focusing on performance and user experience.<br><br>👯 I’m looking to collaborate on:<br>Innovative web development projects, open-source contributions, and modern full-stack applications.<br><br>🤝 I’m looking for help with:<br>Advanced Next.js concepts, performance optimization, and scalable architecture patterns.<br><br>🌱 I’m currently learning:<br>Advanced Next.js features, Supabase edge functions, and modern deployment strategies.<br><br>💬 Ask me about:<br>MERN stack development, Supabase integration, responsive web design, and building full-stack applications.<br><br>⚡ Fun fact:<br>I believe clean code and good coffee make the perfect combination for building amazing web experiences!<br><br>
 
-My Portfolio: https://zamar-portfolio.com<br><br>
+My Portfolio: https://zamarmasood.vercel.app<br><br>
 
-📧 Email: zamarmasood@example.com<br><br>
+📧 Email: zamarmasood4@gmail.com.com<br><br>
 
 My Certifications are:
 - Full Stack Web Development Certification
